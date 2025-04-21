@@ -1,4 +1,4 @@
-h***[Remove this]The issue would be closed without notice and be considered spam if the template is not followed.***
+***[Remove this]The issue would be closed without notice and be considered spam if the template is not followed.***
 
 **Describe the bug**
 A clear and concise description of what the bug is.
